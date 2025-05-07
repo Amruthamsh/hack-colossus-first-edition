@@ -1,0 +1,10 @@
+{ 
+    "rewrites": [{ "source": "/(.*)", "destination": "/" }],
+    "redirects": [
+        {
+            "source": "/linktree",
+            "destination": "https://littlelink-inky-omega.vercel.app/",
+            "permanent": true
+        }
+    ]
+}
